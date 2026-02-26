@@ -15,6 +15,14 @@ Es el motor de adquisición y procesamiento de datos. Se encarga de la comunicac
 * **Validación de Calidad:** Incluye una restricción de seguridad que impide guardar artículos con menos de 20 palabras, asegurando la relevancia del contenido.
 * **Navegación Local:** Reestructura los hipervínculos internos para que la navegación entre temas se mantenga dentro de tu propia instancia.
 
+  ### 1. WikiMD (`wikimanual.php`)
+Con esto genera los primeros Articulos manualmente ya luego desde el index.php explorando los enlaces se generan nuevos articulos.
+
+* **Búsqueda Integrada:** Interfaz directa para consultar temas mediante la API oficial de Wikipedia.
+* **Conversión Inteligente:** Transforma el HTML complejo en Markdown puro, eliminando elementos ruidosos como tablas de datos, scripts, estilos CSS y secciones de referencias.
+* **Navegación Local:** Reestructura los hipervínculos internos para que la navegación entre temas se mantenga dentro de tu propia instancia.
+
+
 ### 2. DocViewer (`index.php`)
 Es una interfaz de usuario (UI) moderna y minimalista diseñada específicamente para la lectura técnica y documentación.
 
