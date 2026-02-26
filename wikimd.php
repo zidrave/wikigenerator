@@ -122,6 +122,7 @@ if (isset($_GET['file'])) {
 <head>
     <meta charset="UTF-8">
     <title>WikiMD</title>
+    <meta name="robots" content="noindex, nofollow">
     <style>
         body { font-family: Arial, sans-serif; margin: 40px; background: #f4f4f4; line-height: 1.6; }
         .container { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); max-width: 900px; margin: auto; }
