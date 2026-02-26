@@ -52,7 +52,7 @@ Es una interfaz de usuario (UI) moderna y minimalista diseñada específicamente
 ### Instalación rápida:
 1. Clona este repositorio en tu servidor local o hosting.
 2. Asegúrate de que los archivos `wikimd.php` e `index.php` estén en la misma carpeta.
-3. Crea un archivo llamado `readme.md` para la pantalla de bienvenida inicial.
+3. Crea un archivo llamado `readme.md` para la pantalla de bienvenida inicial. ( En nuestro repositorio github no podemos poner el readme.md por que github ya usa un readme.md para explicar el proyecto, tendras que crear un readme.php en tu sistema instalado y ya lo personalizas a tu gusto.
 4. ¡Empieza a buscar y guardar documentación!
 
 ---
